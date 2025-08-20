@@ -1,8 +1,6 @@
 {
   "image": "olivierpierre/comp60261-setuid",
-  "settings": {
-    "terminal.integrated.defaultProfile.linux": "bash"
-  },
+
   "customizations": {
     "vscode": {
       "settings": {
