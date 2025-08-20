@@ -1,6 +1,8 @@
 {
   "image": "olivierpierre/comp60261-setuid",
 
+  "user": "user",
+
   "workspaceFolder": "/home/user/workspace",
 
   "customizations": {
