@@ -3,6 +3,10 @@
 
   "workspaceFolder": "/home/user",
 
+  "mounts": [
+    "source=${localWorkspaceFolder},target=/home/user,type=bind"
+  ],
+
   "customizations": {
     "vscode": {
       "settings": {
