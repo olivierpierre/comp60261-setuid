@@ -2,7 +2,6 @@
   "image": "olivierpierre/comp60261-setuid",
 
   "workspaceFolder": "/home/user/workspace",
-  "workspaceMount": "/workspace",
 
   "customizations": {
     "vscode": {
