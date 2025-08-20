@@ -4,6 +4,7 @@
   "user": "user",
 
   "workspaceFolder": "/home/user/workspace",
+  "workspaceMount": null,
 
   "customizations": {
     "vscode": {
